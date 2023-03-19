@@ -36,4 +36,9 @@ ADDED
 
 <h3 align="center">JULIE MWOLE PLUGINS</h1><a href="https://github.com/Luciferhere2/Julie-mwole-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-1-blue">
 
+### PLUGINS🍒
 
+
+<h4 align="center">  ᐉ ɪɴᴛʀᴏ </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://gist.github.com/Luciferhere2/363cb4c1613000f505341649a72c8dca">кιяαи ѕєя</a>
