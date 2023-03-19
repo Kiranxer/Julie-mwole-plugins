@@ -1,6 +1,6 @@
 <h1 align="center"> HERMIT-MD PLUGINS </h1>
 <div align="center">
-  <img border-radius: 30px src="https://i.imgur.com/6oYvCER.jpeg" width="1000" height="300"/>
+  <img border-radius: 30px src="https://i.imgur.com/RS3FgKz.jpeg" width="1000" height="300"/>
 
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hermit-md-plugins&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
